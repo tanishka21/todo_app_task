@@ -1,6 +1,6 @@
 # todo_app_task
 
-A new Flutter project.
+Created Basic ToDo App in flutter by which we can Add the upcoming task, mark completed from the checkbox. Perform simple state management by the help of functions.
 
 ## Getting Started
 
